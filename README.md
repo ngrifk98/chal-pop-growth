@@ -54,5 +54,5 @@ If you find any issues or have improvements to suggest, feel free to submit a pu
 
 ## License
 
-This code is licensed under the MIT License. You are free to use, modify, and distribute it for personal and commercial purposes. See the [LICENSE](LICENSE) file for more details.
+This code is licensed under the MIT License. You are free to use, modify, and distribute it for personal and commercial purposes. 
 
